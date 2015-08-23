@@ -60,10 +60,6 @@
       <Project>{68851341-C54F-4B5A-8E79-00D6ADDAB2D1}</Project>
       <Name>Obelisk.Agi</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Obelisk.Agi.Bootstrappers.Structuremap\Obelisk.Agi.Bootstrappers.Structuremap.csproj">
-      <Project>{237b1c98-2ad2-485f-b0ea-a2ca8bb1ebb5}</Project>
-      <Name>Obelisk.Agi.Bootstrappers.Structuremap</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

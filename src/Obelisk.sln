@@ -5,10 +5,6 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obelisk.Agi", "Obelisk.Agi\Obelisk.Agi.csproj", "{68851341-C54F-4B5A-8E79-00D6ADDAB2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obelisk.Agi.Bootstrappers.Resouce", "Obelisk.Agi.Bootstrappers.Resouce\Obelisk.Agi.Bootstrappers.Resouce.csproj", "{1A299BFB-C257-4326-B47E-68478FB7C5F4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obelisk.Agi.Bootstrappers.Structuremap", "Obelisk.Agi.Bootstrappers.Structuremap\Obelisk.Agi.Bootstrappers.Structuremap.csproj", "{237B1C98-2AD2-485F-B0EA-A2CA8BB1EBB5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obelisk.Agi.Tests", "Obelisk.Agi.Tests\Obelisk.Agi.Tests.csproj", "{18A88ED2-937C-49DC-8203-16EDBD152358}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obelisk.TestHost", "Obelisk.TestHost\Obelisk.TestHost.csproj", "{C8012071-15F5-4767-99EC-1666943BF19D}"
@@ -23,14 +19,6 @@ Global
 		{68851341-C54F-4B5A-8E79-00D6ADDAB2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68851341-C54F-4B5A-8E79-00D6ADDAB2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68851341-C54F-4B5A-8E79-00D6ADDAB2D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A299BFB-C257-4326-B47E-68478FB7C5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A299BFB-C257-4326-B47E-68478FB7C5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A299BFB-C257-4326-B47E-68478FB7C5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A299BFB-C257-4326-B47E-68478FB7C5F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{237B1C98-2AD2-485F-B0EA-A2CA8BB1EBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{237B1C98-2AD2-485F-B0EA-A2CA8BB1EBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{237B1C98-2AD2-485F-B0EA-A2CA8BB1EBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{237B1C98-2AD2-485F-B0EA-A2CA8BB1EBB5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{18A88ED2-937C-49DC-8203-16EDBD152358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{18A88ED2-937C-49DC-8203-16EDBD152358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A88ED2-937C-49DC-8203-16EDBD152358}.Release|Any CPU.ActiveCfg = Release|Any CPU
