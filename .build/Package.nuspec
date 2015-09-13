@@ -11,5 +11,8 @@
     <description>An Asterisk Fast AGI framework using the .net TPL</description>
     <copyright>Copyright 2015</copyright>
     <tags>Obelisk.Agi</tags>
-  </metadata>
+    </metadata>
+    <files>
+        <file src="..\src\Obelisk.Agi\bin\Release\Obelisk.Agi.dll" target="lib" />
+    </files>
 </package>
