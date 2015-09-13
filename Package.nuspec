@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Obelisk.Agi</id>
+    <version>0.0.1-alpha</version>
+    <authors>troytowson</authors>
+    <owners>troytowson</owners>
+    <licenseUrl>https://github.com/troytowson/obeliskagi-csharp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/troytowson/obeliskagi-csharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An Asterisk Fast AGI framework using the .net TPL</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Obelisk.Agi</tags>
+  </metadata>
+</package>
