@@ -13,6 +13,6 @@
     <tags>Obelisk.Agi</tags>
     </metadata>
     <files>
-        <file src="..\src\Obelisk.Agi\bin\Release\Obelisk.Agi.dll" target="lib" />
+        <file src="..\src\Obelisk.Agi\bin\Release\Obelisk.Agi.dll" target="lib\net45" />
     </files>
 </package>
